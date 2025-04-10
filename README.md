@@ -10,8 +10,6 @@
 ## 音乐制作
 除非特别说明，所有音乐均由 ​**CR_Twenty-six** 创作。  
 **网易云音乐艺术家主页**：<https://music.163.com/#/artist?id=35598545>
-**苏方宇工作室网易云主页**：<https://music.163.com/#/user?id=13374737476&dlt=0846&app_version=9.2.78>
-
 
 ## 授权协议
 本作品采用 [CC BY 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/)授权。  
