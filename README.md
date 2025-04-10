@@ -1,4 +1,4 @@
-# 极音记录 PolarSoundRecords
+# 极音记录Polar Sound Records
 
 **苏方宇工作室**发行的歌曲，极音记录 Polar Sound Records 是负责这些内容的部门。
 
