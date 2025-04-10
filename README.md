@@ -1,4 +1,4 @@
-# 极音记录Polar Sound Records
+# 极音记录 Polar Sound Records
 
 **苏方宇工作室**发行的歌曲，极音记录 Polar Sound Records 是负责这些内容的部门。
 
@@ -17,3 +17,5 @@
 您可以免费使用、混编和分发这些音乐，​**但必须明确标注原始作者信息**。
 
 ## 在我们GitHub的Release处下载。
+
+2025.04.10
