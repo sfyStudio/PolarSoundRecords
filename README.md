@@ -16,4 +16,4 @@
 本作品采用 [CC BY 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/)授权。  
 您可以免费使用、混编和分发这些音乐，​**但必须明确标注原始作者信息**。
 
-## 在Release处下载。
+## 在我们GitHub的Release处下载。
