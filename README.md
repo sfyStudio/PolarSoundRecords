@@ -1,5 +1,6 @@
 # 极音记录 Polar Sound Records
 
+极音记录Polar Sound Records是苏方宇工作室的音乐发布部门，目前主要制作和发布开源的电子音乐，用于苏方宇工作室使用和与他人共享。
 **苏方宇工作室**发行的歌曲，极音记录 Polar Sound Records 是负责这些内容的部门。
 
 ## 官方链接
